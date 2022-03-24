@@ -46,4 +46,6 @@ int main(void)
 
 	int div = divide(50, 5);
 	printf("%d\n", div);
+	
+	return 0;
 }
